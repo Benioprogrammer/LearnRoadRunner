@@ -15,6 +15,7 @@ Afterwards, it is highly recommended to upgrade your Rev Expansion Hub or Contro
 
 1. Navigate to [https://github.com/acmerobotics/road-runner-quickstart/tree/quickstart1](https://github.com/Iris-TheRainbow/RoadRunnerQuickstart15031) (this is a quickstart maintained by Iris_TheRainbow, not acmerobotics, but should remain more up to date than the official quickstart)
 2. Click the big green download button
+Lol
 
 <VideoDisplay src="./assets/installing/github-download-btn.mp4" width="100%"/>
 
